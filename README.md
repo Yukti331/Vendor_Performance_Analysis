@@ -24,8 +24,7 @@ The goal of this project is to evaluate and optimize vendor performance by analy
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
-![Regional Sales](images/region_sales.png)
+![Dashboard Overview](images/dashboard_image.png)
 
 ## Key Features
 -On-time delivery & order accuracy KPIs
